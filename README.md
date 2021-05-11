@@ -62,3 +62,9 @@ The main expects an argument the file of input
 
     * make 
     * make run 
+    -------------
+    * make 
+    * java Main file.tkt
+    -------------
+    * make
+    * java Main "File path"
