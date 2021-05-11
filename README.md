@@ -58,6 +58,7 @@ The output for each rover should be its final co-ordinates and heading.
 
 ### Run Program
 
-The main expects an argument the name of the file
+The main expects an argument the file of input 
 
-    make run 
+    * make 
+    * make run 
