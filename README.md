@@ -60,11 +60,20 @@ The output for each rover should be its final co-ordinates and heading.
 
 The main expects an argument the file of input 
 
+    * git clone https://github.com/HugoArrondelle/The_Mars_Rover_Kata.git
+    * cd The_Mars_Rover_Kata
+    * cd src
     * make 
     * make run 
     -------------
+    * git clone https://github.com/HugoArrondelle/The_Mars_Rover_Kata.git
+    * cd The_Mars_Rover_Kata
+    * cd src
     * make 
     * java Main file.tkt
     -------------
+    * git clone https://github.com/HugoArrondelle/The_Mars_Rover_Kata.git
+    * cd The_Mars_Rover_Kata
+    * cd src
     * make
     * java Main "File path"
